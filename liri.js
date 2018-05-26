@@ -43,7 +43,7 @@ function liriBot () {
     switch(search) {
         case "my-tweets":
         
-            var params = {screen_name: 'ChgoZachary'};
+            var params = {screen_name: 'CoderChicago'};
             var logIt1 = search.concat(findThis + ", ")
             console.log ("Searching "+ FgCyan + "Twitter" + FgWhite + " for your tweets!\n");
 
