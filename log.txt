@@ -1,3 +1,39 @@
 my-tweets, Sat May 26 22:24:03  My third Tweet!
 my-tweets, Sat May 26 22:23:52  This warm weather is a long time coming.
 my-tweets, Sat May 26 22:23:37  It's a wonderful day to code!
+spotify-this-song,The Sign Ace of Base
+my-tweets, Sat May 26 22:24:03  My third Tweet!
+my-tweets, Sat May 26 22:23:37  It's a wonderful day to code!
+my-tweets, Sat May 26 22:23:52  This warm weather is a long time coming.
+movie-this,The Rider
+movie-this,The Joy Luck Club
+my-tweets, Sun May 27 03:42:21  Tweeting anew for my class assignment
+my-tweets, Sun May 27 00:52:43  Memorial Day Weekend FTW!
+my-tweets, Sat May 26 23:39:52  Time for a beer!
+my-tweets, Sat May 26 22:23:52  This warm weather is a long time coming.
+my-tweets, Sat May 26 22:23:37  It's a wonderful day to code!
+my-tweets, Sat May 26 22:24:03  My third Tweet!
+spotify-this-song,Billie Jean
+spotify-this-song,The Sign Ace of Base
+spotify-this-song,"I Want it That Way"
+my-tweets, Tue May 29 16:30:21  Enjoying some time off from school. It's just me, code, and a lovely cool spring day.
+my-tweets, Sun May 27 03:42:21  Tweeting anew for my class assignment
+my-tweets, Sat May 26 23:39:52  Time for a beer!
+my-tweets, Sat May 26 22:24:03  My third Tweet!
+my-tweets, Sun May 27 00:52:43  Memorial Day Weekend FTW!
+my-tweets, Sat May 26 22:23:52  This warm weather is a long time coming.
+my-tweets, Sat May 26 22:23:37  It's a wonderful day to code!
+spotify-this-song,Flake
+my-tweets, Tue May 29 16:30:21  Enjoying some time off from school. It's just me, code, and a lovely cool spring day.
+my-tweets, Sun May 27 03:42:21  Tweeting anew for my class assignment
+my-tweets, Sun May 27 00:52:43  Memorial Day Weekend FTW!
+my-tweets, Sat May 26 23:39:52  Time for a beer!
+my-tweets, Sat May 26 22:24:03  My third Tweet!
+my-tweets, Sat May 26 22:23:37  It's a wonderful day to code!
+my-tweets, Sat May 26 22:23:52  This warm weather is a long time coming.
+movie-this,Solo
+movie-this,Black Panther
+spotify-this-song,America the Beautiful
+spotify-this-song,Yellow
+spotify-this-song,Coldplay
+spotify-this-song,"I Want it That Way"
