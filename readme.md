@@ -16,4 +16,7 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 ### do-what-it-says
 ![do-what-it-says](https://user-images.githubusercontent.com/35242379/40673664-07660904-6338-11e8-999d-1ad468457439.JPG)
 
+## For extra credit, us fs object to continually append user actions
+### log.txt
+![log txt](https://user-images.githubusercontent.com/35242379/40673833-95bc1978-6338-11e8-9685-2b24168bc31b.JPG)
 
